@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Pandemic in the Republic of Algeria"
-author: "N. Hirusha Wanigasingha - AS2019566"
+author: "N. Hirusha Wanigasingha"
 // date: "9/30/2022"
 theme: cerulean
 output: html_document
